@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 
-
+//THIS IS TRYOUT CODE /// TRY TO CONNECT WITH FASTAPI
 const BASE_URL = 'http://localhost:8000/'
 
 function User() {
