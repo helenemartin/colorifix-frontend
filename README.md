@@ -1,6 +1,6 @@
-Tech test for Colorifix
+Tech test for Colorifix 2/2
 
-Colorifix-frontend
+2/ Colorifix-frontend
 
 Client side for the Colorifix Fullstack test on React.
 
